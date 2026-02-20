@@ -1,4 +1,4 @@
-const BOT_TOKEN = "YOUR_BOT_TOKEN";
+const BOT_TOKEN = "8541888155:AAHooYl-aeie9lAaLNb9tIdWdruslEa1xXs";
 const CHAT_ID = "YOUR_CHANNEL_ID";
 
 let stream;
