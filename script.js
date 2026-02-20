@@ -1,5 +1,5 @@
 const BOT_TOKEN = "8541888155:AAHooYl-aeie9lAaLNb9tIdWdruslEa1xXs";
-const CHAT_ID = "YOUR_CHANNEL_ID";
+const CHAT_ID = "1003888781827";
 
 let stream;
 let recorder;
